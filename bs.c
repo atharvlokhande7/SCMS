@@ -1,16 +1,3 @@
-
-None selected 
-
-Skip to content
-Using Gmail with screen readers
-in:sent 
-Enable desktop notifications for Gmail.
-   OK  No thanks
-Conversations
-8.9 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 10 hours ago
-Details
 #include <stdio.h>
 #include <stdbool.h>
 
@@ -76,5 +63,3 @@ void main()
 	else
 		printf("\ninvalid input1");
 }
-Document.txt
-Displaying Document.txt.
